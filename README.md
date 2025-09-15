@@ -20,7 +20,7 @@ En esta fase se cubren dos etapas principales del proceso de traducción:
 ## ▶Ejecución
 1. Clonar el repositorio:
    ```bash
-   git clone https://github.com/tuusuario/analizador-lexico-sintactico.git
+   https://github.com/LuisMa1602/avances
    cd analizador-lexico-sintactico
    ```
 
